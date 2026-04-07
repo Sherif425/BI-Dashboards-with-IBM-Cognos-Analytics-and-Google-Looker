@@ -1,63 +1,43 @@
-Analytics is the systematic compilation
-and dissection of data, statistics, and operations research to build
+Analytics is the systematic compilation and dissection of data, statistics, and operations research to build
 models to make better decisions. 
 
 Compute storage, processors, and memory capabilities have significantly increased speed, capacity, and affordability. 
 
 The data warehousing solutions available now store large volumes of data with low latency. These exponential increases in both capacity
-and speed for storage, processors, and memory enable organizations to now process petaflops
-of data with swift turnaround times. When more data is available,
-analytics are more accurate. 
+and speed for storage, processors, and memory enable organizations to now process petaflops of data with swift turnaround times. 
+When more data is available, analytics are more accurate. 
 
-Organizations can use BI tools’ built-in
-expertise to analyze data and find patterns using machine learning based
-on statistical modeling. 
+Organizations can use BI tools’ built-in expertise to analyze data and find patterns using machine learning based on statistical modeling. 
 
-Today’s analytical tools have
-reduced the time to churn data so much that results are now almost real-time. 
+Today’s analytical tools have reduced the time to churn data so much that results are now almost real-time. 
 
-These analytical outcomes can be descriptive, prescriptive, or predictive. Descriptive analytics
-provide insight into the past. Predictive analytics provide insight
-into what could happen in the future. In contrast, prescriptive analytics
-provide insight into what actions an organization should take to create
-a specific outcome in the future. 
-
-Business intelligence tools, or BI
-tools, enable data preparation, data mining, data management, and data visualization. 
-
-Implementing BI tools is much
-like solving a puzzle to gain a more comprehensive picture of your organization. 
-
-BI tools help organizations
-focus on the what and the why. Businesses use their data to
-discover what is happening and determine what triggered a specific outcome. 
-
-BI tools, as highly evolved
-software, apply statistics and operations research as part of the
-process of creating inherent intelligence. 
+These analytical outcomes can be 
+1. descriptive: Descriptive analytics provide insight into the past. 
+2. prescriptive: Prescriptive analytics provide insight into what actions an organization should take to create a specific outcome in the future. 
+3. predictive: Predictive analytics provide insight into what could happen in the future.  
 
 
-BI tools also help organizations harness
-the power of descriptive, diagnostic, predictive, and prescriptive analytics
-for operational and strategic decisions. 
+Business intelligence tools, or BI tools, enable data preparation, data mining, data management, and data visualization. 
 
-Users can analyze business operations through
-dashboarding, reporting, and self-serve analytics based on historical, current, and projected data
+Implementing BI tools is much like solving a puzzle to gain a more comprehensive picture of your organization. 
+
+BI tools help organizations focus on the what and the why. Businesses use their data to discover what is happening and determine what triggered a specific outcome. 
+
+BI tools, as highly evolved software, apply statistics and operations research as part of the process of creating inherent intelligence. 
+
+BI tools also help organizations harness the power of descriptive, diagnostic, predictive, and prescriptive analytics for operational and strategic decisions. 
+
+Users can analyze business operations through dashboarding, reporting, and self-serve analytics based on historical, current, and projected data
 to transform data into business opportunities. 
 
-There are many solutions available
-in the market that empower organizations with the ability
-to perform advanced analytics. 
+There are many solutions available in the market that empower organizations with the ability to perform advanced analytics. 
 
+Some of the well-known players in the market are, IBM Cognos Analytics, which integrates Watson Analytics that leverages IBM’s artificial intelligence and natural language processing, Microsoft Power BI, well
+known for its secure insights, 
+Tableau is known for powerful visualizations, 
+Oracle Analytics cloud known for its conversational analytics, 
+SAP Business Objects known for its intelligent analytics, 
+and Tibco Spotfire offers scalability for small and large organizations. 
 
-Some of the well-known players in the market are, IBM Cognos Analytics, which integrates Watson
-Analytics that leverages IBM’s artificial intelligence and natural language processing, Microsoft Power BI, well
-known for its secure insights, Tableau is known for powerful visualizations, Oracle Analytics cloud known for
-its conversational analytics, SAP Business Objects known for
-its intelligent analytics, and Tibco Spotfire offers scalability for
-small and large organizations. 
-
-IBM has invested more than 25 billion dollars
-since 2005 to grow its analytics business. Cognos Analytics is IBM’s AI-fuelled
-business intelligence and analytics software that supports the entire data analytics
+IBM has invested more than 25 billion dollars since 2005 to grow its analytics business. Cognos Analytics is IBM’s AI-fuelled business intelligence and analytics software that supports the entire data analytics
 lifecycle, from discovery to operations. 
